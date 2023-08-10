@@ -21,7 +21,7 @@ To run the CRUD system on your local machine, follow these steps:
 
     Clone the repository:
 
-git clone https://github.com/your-username/crud-system.git
+git clone https://github.com/mai298/crud-system.git
 
 Navigate to the project directory:
 
